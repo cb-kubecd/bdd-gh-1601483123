@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: gcr.io/jenkins-x-labs-bdd/bdd-gh-1601483123
-  tag: 0.0.1
+  tag: 0.0.2
   pullPolicy: IfNotPresent
 
 # optional list of image pull secrets to use to pull images
